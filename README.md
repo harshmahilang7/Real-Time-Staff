@@ -1,4 +1,4 @@
-# Employee Management System :office:
+# REAL-TIME-STAFF :office:
 
 An __Employee Management System__ built using __Spring Boot technologies__, __Thymeleaf views__, __JPA__, __MySQL Database__, and more. The project features Spring Model, View, and Controller (MVC) architecture and Service and Repository layers.
 
